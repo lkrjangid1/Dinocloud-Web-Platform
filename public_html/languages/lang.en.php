@@ -66,7 +66,7 @@ $lang['FAQ_BLOCK01_DESCRIPTION'] = 'Uploading a file is simple: <br>
 - Finally after a file is uploaded, it will be displayed in a table, where you will also have options on what to do with that file.
 ';
 $lang['FAQ_BLOCK02_TITLE'] = 'Can my Free plan affect my files?';
-$lang['FAQ_BLOCK02_DESCRIPTION'] = 'Of Course Not! You will only be restricted to a limited storage space, but the file secutiry and all the other options will remain the same as for Business and Professional plans.';
+$lang['FAQ_BLOCK02_DESCRIPTION'] = 'Of Course Not! You will only be restricted to a limited storage space, but the security of the files and all the other options will remain the same as for Business and Professional plans.';
 $lang['FAQ_BLOCK03_TITLE'] = 'Do I get full support on my Free plan?';
 $lang['FAQ_BLOCK03_DESCRIPTION'] = 'Yes and No. Yes, we will respond to your questions or needs but the highest priorities of response and tehnical support will remain strictly to paid plans. If you are on a paid plan, the priority of time response will be as follow: Professional, Business, Free plan.';
 $lang['FAQ_BLOCK04_TITLE'] = 'What is the payment method for a PRO plan?';
