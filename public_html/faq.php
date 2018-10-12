@@ -145,12 +145,23 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
         <div class="panel-body"><?php echo $lang['FAQ_BLOCK04_DESCRIPTION'];?></div>
       </div>
     </div>
-      
+    
+      <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 data-toggle="collapse" data-parent="#accordion" href="#collapse5" class="panel-title expand">
+            <div class="right-arrow pull-right">+</div>
+          <a href="#"><?php echo $lang['FAQ_BLOCK05_TITLE']?></a>
+        </h4>
+      </div>
+      <div id="collapse5" class="panel-collapse collapse">
+        <div class="panel-body"><?php echo $lang['FAQ_BLOCK05_DESCRIPTION'];?></div>
+      </div>
+    </div>
   </div> 
+  
 </div>
 
 <br \>
-
 <!-- MODAL MESSAGE SEND MAIL (need email client on Server installed)
 <div class="container">
     <div class="row" style="margin-top:40px;">

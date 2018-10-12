@@ -71,6 +71,8 @@ $lang['FAQ_BLOCK03_TITLE'] = 'Obtengo soporte completo en mi plan gratuito?';
 $lang['FAQ_BLOCK03_DESCRIPTION'] = 'Si y No. Si, responderemos a sus preguntas o necesidades, pero las prioridades de respuesta y apoyo tecnico mas estrictas seguiran siendo estrictamente para los planes pagados. Si tiene un plan pagado, la prioridad de la respuesta de tiempo sera la siguiente: Profesional, de negocios, plan gratuito. ';
 $lang['FAQ_BLOCK04_TITLE'] = 'Cual es el metodo de pago para un plan PRO?';
 $lang['FAQ_BLOCK04_DESCRIPTION'] = 'Actualmente no tenemos un metodo de pago, por lo que los usuarios pueden explorar todas las instalaciones que ofrece DinoCloud. Pronto implementaremos un metodo de pago por SMS usando su numero de telefono, y los costos dependeran de los planes de precios. ';
+$lang['FAQ_BLOCK05_TITLE'] = 'Como desactivar completamente mi cuenta??';
+$lang['FAQ_BLOCK05_DESCRIPTION'] = 'Para desactivar su cuenta permanentemente, primero debe ir a su Administrador de archivos y hacer clic en el boton rojo Eliminar todos los archivos. Despues de eliminar todos sus archivos, puede hacer clic en su icono de usuario en la barra de navegacion y acceder a su perfil. Ahi tienes un boton rojo llamado Desactivar cuenta y deberia eliminar completamente tu cuenta!';
 
 $lang['FAQ_ASK_BUTTON'] = 'Enviar pregunta';
 $lang['FAQ_ASK_TITLE'] = 'Asunto / Titulo:';

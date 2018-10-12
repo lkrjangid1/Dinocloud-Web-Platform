@@ -71,6 +71,8 @@ $lang['FAQ_BLOCK03_TITLE'] = 'Dispun de suport intreg pe durata planului Gratis?
 $lang['FAQ_BLOCK03_DESCRIPTION'] = 'Da si nu. Desigur ca vom raspunde la orice problema trimisa sa dumneavostra si va vom raspunde prin email in cel mai scurt timp posibil. Insa daca dispuneti de planurile Business si Profesional, veti dispune de suport tehnic 24/7 iar ordinea de raspuns este prioritizata in functie de plan: Profesional, Business si Gratis.';
 $lang['FAQ_BLOCK04_TITLE'] = 'Care este metoda de plata?';
 $lang['FAQ_BLOCK04_DESCRIPTION'] = 'In momentul de fata se poate alege orice plan deoarece nu avem implementata o metoda de plata, deci utilizatorii pot explora toate facilitatile pe care le ofera DinoCloud. In viitorul apropiat vom implementa metoda de plata prin SMS folosind numarul dumneavoastra de telefon, iar costurile vor fi in functie de planul dorit.';
+$lang['FAQ_BLOCK05_TITLE'] = 'Cum pot sa-mi dezactivez contul curent?';
+$lang['FAQ_BLOCK05_DESCRIPTION'] = 'Pentru a va putea dezactiva permanent contul, ytrebuie sa va accesati Managerul de Fisiere si sa apasati pe butonul Stergere Totala. Dupa ce v-ati sters toate fisierele din contul personal, puteti da click pe iconita cu username-ul dumneavostra care se afla sus, in bara de meniu si sa accesati Profilul personal. Acolo se afla tot un buton rosu pe care scrie Dezactivare Cont, apasati pe el si acum contul dumneavostra va fi sters!';
 
 $lang['FAQ_ASK_BUTTON'] = 'Trimite intrebare';
 $lang['FAQ_ASK_TITLE'] = 'Subiect/Titlu:';
