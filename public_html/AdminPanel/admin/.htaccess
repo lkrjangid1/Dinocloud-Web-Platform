@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "My Admin Panel"
+AuthUserFile /storage/h6/625/1043625/public_html/admin/.htpasswd
+AuthGroupFile /dev/null 
+# <Files skrypt.php>
+require valid-user
+# </Files>

@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('font-awesome/css/font-awesome.min.css');
+@import url('font-awesome/css/font-awesome.css');
+
+body {
+	background-color: #cccccc;
+	background: #f5f5f5;
+}
+
+/*Iconita glob pentru selectarea limbii dorite */
+.fa-globe{
+color: green;
+}
+
+.container{
+text-align: center;
+
+}
+
+.navbar-header .text-uppercase
+{
+    font-size: 20px;
+    padding-top: 18px;
+    font-family: "Lato";
+}
+
+/* Subsol */
+.footer-left{
+    background-color: transparent;
+    position: fixed;
+    text-align: left;
+    bottom: 0;
+    left: 10px;
+    right: 0;
+    height: 40px;
+    color: #CCC;
+}
+
+#sharePopup
+{
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    height: 50px;
+    right: 5%;
+    transform: translateX(-40%);
+    background-color: #37383a;
+    color: #1f5270;
+    visibility: hidden;
+}
+
+#sharePopup, input[type=button] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    float: right;
+}
+
+@media query max-width 460px {
+
+    #sharePopup {
+
+    text-align: center;
+        font-size: 1em;
+
+     }
+
+}

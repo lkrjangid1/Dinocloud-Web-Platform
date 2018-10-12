@@ -1,0 +1,136 @@
+/* Stiluri pentru pagina de login */
+html {
+   height: 100%;
+}
+body{
+    background-attachment: fixed;
+	background: #19547b;  /* Setat pentru browsere mai vechi */
+    background: -webkit-linear-gradient(to bottom, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   /*  background-attachment: fixed; */
+}
+
+/** Personalizare pagina de login si register **/
+#login {
+    padding-top: 1%;
+}
+
+#login .form-signin {
+    max-width: 410px;
+    padding: 8px 29px 29px;
+    margin: 12% auto 1%;
+    border: 1px solid #a1ff8c;
+    box-shadow: 1px 2px 13px #a1ff8c;
+    background-color: rgba( 28, 28, 28, 0.916 );
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 1 5px 5px rgba(0,0,0,.03);
+       -moz-box-shadow: 0 5px 5px rgba(0,0,0,.03);
+            box-shadow: 0 5px 5px rgba(0,0,0,.03);
+}
+
+.dinocloud_avatar{
+margin-top: -21%;
+}
+
+.container{
+margin-top: 8%;
+}
+/*Personalizare Forgot Password*/
+#login .form-signin-forgot-pass{
+    max-width: 400px;
+    height: 350px;
+    padding: 19px 29px 29px;
+    margin: 100px auto 40px;
+    border: 2px solid #1377AD;
+    box-shadow: 2px 2px 9px #1377AD;
+    background-color: rgba( 38, 38, 38, 0.883 );
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 2 5px 5px rgba(0,0,0,.05);
+       -moz-box-shadow: 0 5px 5px rgba(0,0,0,.05);
+            box-shadow: 0 5px 5px rgba(0,0,0,.05);
+}
+
+#login .form-signin-forgot-pass .form-signin-heading,
+#login .form-signin-forgot-pass .checkbox {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+#login .form-signin .form-signin-heading,
+#login .form-signin .checkbox {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    margin-top: -2%;
+}
+#login .form-signin input[type="text"],
+#login .form-signin input[type="password"],
+#login .form-signin input[type="email"] {
+    font-size: 15px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+}
+
+/* Footer */
+footer{
+    font-family: "Lato";
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30px; 
+    text-align: center;
+    color: #00000;
+}
+
+footer h4 {
+    padding: 10px;
+    margin: 0px;
+    line-height: 100%;
+}
+
+@media (max-width: 880px) {
+
+    .footer-distributed{
+        font: bold 14px sans-serif;
+        width: 100%;
+    }
+
+    .footer-distributed .footer-left
+    {
+        display: block;
+        width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .footer-distributed .footer-center i{
+        margin-left: 0;
+    }
+
+}
+
+@media (max-width: 880px) {
+
+	.footer-distributed{
+		font: bold 14px sans-serif;
+                 width: 100%;
+	}
+
+	.footer-distributed .footer-left
+	{
+		display: block;
+		width: 100%;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}

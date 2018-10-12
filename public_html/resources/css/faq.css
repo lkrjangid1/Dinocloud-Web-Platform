@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('font-awesome/css/font-awesome.min.css');
+@import url('font-awesome/css/font-awesome.css');
+
+body {
+	top: 0;
+        padding-bottom: 0;
+	/*padding-bottom: 40px; */
+	background-color: #cccccc;
+	background: #f5f5f5;
+}
+
+.navbar-header .text-uppercase
+{
+    font-size: 20px;
+    padding-top: 18px;
+    font-family: "Lato";
+}
+
+/*Iconita glob pentru selectarea limbii dorite */
+.fa-globe{
+color: green;
+}
+
+.row{
+text-align: center;
+border: 0;
+margin-bottom: 0;
+z-index: 2;
+}
+
+.glyphicon {  
+text-align: center;
+margin-bottom: 10px;
+margin-right: 1px;
+}
+
+/* Footer */
+
+footer{
+    background-color: #252526;
+    font-family: "Lato";
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 38px;
+    text-align: center;
+    color: #CCC;
+}
+
+footer h4 {
+    padding: 10px;
+    margin: 0px;
+    line-height: 100%;
+}
