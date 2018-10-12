@@ -54,25 +54,25 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
                                 <ul class="dropdown-menu dropdown-menu-flag" role="menu">
                                  <li>
                                         <a href="pricing.php?lang=ro">
-                                            <img src="https://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/ro.png" alt="Romana" width="28px" height="18px">
+                                            <img src="http://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/ro.png" alt="Romana" width="28px" height="18px">
                                             <span>Romana</span>
                                         </a>
                                  </li>
                                  <li>
                                         <a href="pricing.php?lang=en">
-                                            <img src="https://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/gb.png" alt="English" width="28px" height="18px">
+                                            <img src="http://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/gb.png" alt="English" width="28px" height="18px">
                                             <span>English</span>
                                         </a>
                                  </li>       
                                  <li>
                                         <a href="pricing.php?lang=de">
-                                            <img src="https://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/de.png" alt="German" width="28px" height="18px">
+                                            <img src="http://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/de.png" alt="German" width="28px" height="18px">
                                             <span>Deutsch</span>
                                         </a>
                                 </li>  
                                  <li>
                                         <a href="pricing.php?lang=es">
-                                            <img src="https://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/es.png" alt="Spanish" width="28px" height="18px">
+                                            <img src="http://www.country-dialing-codes.net/img/png-country-4x2-flat-res-640x480/es.png" alt="Spanish" width="28px" height="18px">
                                             <span>Español</span>
                                         </a>
                                 </li> 

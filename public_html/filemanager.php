@@ -29,11 +29,11 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC); // Row este folosit in tabelul de fisiere
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="resources/css/myfiles.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+     <link rel="stylesheet" href="resources/font-awesome/css/font-awesome.min.css">
     <link href="resources/css/uploadfile.css" rel="stylesheet" />
     <script src="https://code.jquery.com/jquery-1.10.2.js" integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo=" crossorigin="anonymous"></script>
     <script src="resources/jquery/jquery.uploadfile.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="resources/font-awesome/css/font-awesome.min.css">
 </head>
 
 <body>
