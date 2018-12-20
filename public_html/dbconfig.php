@@ -2,9 +2,9 @@
 class Database
 {
     private $host = "localhost";
-    private $db_name = "dinocloud";
-    private $username = "dyno";
-    private $password = "Dinocloud.1995";
+    private $db_name = "*****";
+    private $username = "*****";
+    private $password = "*****";
     public $conn;
      
     public function dbConnection()
